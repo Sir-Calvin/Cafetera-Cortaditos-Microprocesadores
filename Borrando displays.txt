@@ -1,0 +1,20 @@
+																;Borrando leds de 7 Segmentos
+MVI A,0B
+OUT 8H
+OUT 9H
+OUT AH
+OUT BH
+OUT CH
+OUT DH
+OUT EH
+OUT FH
+																;Borrando matriz de leds
+MVI A,0B
+OUT 0H
+OUT 1H
+OUT 2H
+OUT 3H
+OUT 4H
+OUT 5H
+OUT 6H
+OUT 7H

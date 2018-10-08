@@ -1,0 +1,10 @@
+1.-Agregar agua en el recipiente 1(R1).
+2.-Calentar agua en R1.
+3.-Agregar leche en el recipiente 2(R2).
+4.-Calentar leche en R2.
+5.-Agregar café y leche fría en el recipiente 3(R3).
+6.-Batir lo que hay en R3.
+7.-Agregar la leche caliente en el R3.
+8.-Batir lo que hay en R3.
+9.-Agregar agua caliente en el R3.
+10.-Café cortado listo para tomar.
